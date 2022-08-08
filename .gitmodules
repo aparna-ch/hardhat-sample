@@ -1,3 +1,6 @@
 [submodule "Web3RSVP-subgraph"]
 	path = Web3RSVP-subgraph
 	url = https://github.com/aparna-ch/Web3RSVP-subgraph
+[submodule "web3RSVP-frontend-starter"]
+	path = web3RSVP-frontend-starter
+	url = https://github.com/aparna-ch/web3RSVP-frontend-starter
