@@ -14,7 +14,7 @@ const main = async () => {
     let eventDataCID =
     "bafybeibhwfzx6oo5rymsxmkdxpmkfwyvbjrrwcl7cekmbzlupmp5ypkyfi";
 
-    let txn = await rsvpContract.CreateNewEvent(
+    let txn = await rsvpContract.createNewEvent(
         timestamp,
         deposit,
         maxCapacity,
